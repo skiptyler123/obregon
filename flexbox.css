@@ -1,0 +1,83 @@
+.flex-conteiner{
+    display: flex;
+    background-color: white;
+    flex-wrap: wrap;
+    flex-grow: 0;
+    justify-content: center;
+    
+    
+    
+}
+.caja1{
+  border-radius: 0 0 100px 0;
+    width: 250px;
+    height: 100px;
+    margin: 50px;
+    text-align: center;
+    font-size: 30px;
+    background-color:  rgb(146, 24, 24) ;
+
+    
+}
+.caja2{
+    border-radius: 50px 0 0 0;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+    background-color: rgb(23, 23, 94);
+    
+}
+.caja3{
+    border-radius: 0 0 0 100px;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+    background-color:  rgb(146, 24, 24);
+    
+}
+.caja4{
+    
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+    background-color: rgb(23, 23, 94);
+    border-top-right-radius:80px;
+    border-top-left-radius:30px;
+    border-bottom-right-radius:30px;
+    border-bottom-left-radius:80px;
+    
+}
+.caja5{
+    
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+    background-color:  rgb(146, 24, 24);
+    border-radius: 50px;
+    
+}
+.caja6{
+   
+    width: 115px;
+    height: 115px;
+    text-align: center;
+    font-size: 30px;
+    margin: 50px;
+    background-color: rgb(23, 23, 94);
+    border-radius: 50%;
+    border-bottom: 50%;
+    
+   
+    
+}
+    
+
+

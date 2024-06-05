@@ -1,0 +1,16 @@
+.background {
+    background-color: red;
+}
+div{
+    background-color: #dfdfdf;
+    width: 1000px;
+    height: 450px;
+    padding: 20px;
+    border: 25px solid black;
+    margin: 20px 50px 20px 50px;
+}
+h2{
+    color: red;
+    border-bottom: 2px solid black;
+}
+
